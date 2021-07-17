@@ -1,0 +1,45 @@
+body {
+    overflow: hidden;
+    background-color: black;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+p {
+    text-align: center;
+	margin: 0 0;
+	position: absolute;
+	font: 3.5vh Verdana;
+	color: #eee;
+	bottom: 3%;
+	text-shadow: 0 0 2px white;
+}
+
+.button {
+    padding: 0 12%;
+    position: absolute;
+    top: 35%;
+    align-content: center;
+}
+ 
+a {
+    font-size: 11vh;
+	text-decoration: none;
+	color: #aaa;
+}
+span {
+	font-size: 11px;
+}
+p > a:first-of-type {
+	font-size: 20px;
+}
+body {
+	overflow: hidden;
+}
+
+#background-audio {
+	visibility: hidden;
+}
