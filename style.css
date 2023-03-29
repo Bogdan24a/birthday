@@ -12,7 +12,8 @@ p {
     text-align: center;
 	margin: 0 0;
 	position: absolute;
-	font: 3.5vh Verdana;
+/* 	font: 3.5vh Verdana; */
+	font: 2.8vh Verdana;
 	color: #eee;
 	bottom: 3%;
 	text-shadow: 0 0 2px white;
