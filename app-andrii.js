@@ -1,4 +1,4 @@
-var w = (c.width = window.innerWidth),
+var w = (c.width = window.innerWidth-5),
     h = (c.height = window.innerHeight),
     ctx = c.getContext("2d"),
     hw = w / 2, // half-width
