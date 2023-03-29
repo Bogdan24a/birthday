@@ -1,4 +1,4 @@
-var w = (c.width = window.innerWidth-5),
+var w = (c.width = window.innerWidth),
     h = (c.height = window.innerHeight),
     ctx = c.getContext("2d"),
     hw = w / 2, // half-width
@@ -6,7 +6,7 @@ var w = (c.width = window.innerWidth-5),
     opts = {
         strings: ["З ДНЕМ", "НАРОДЖЕННЯ!", "Андрій", "Бажаємо ми тобі", "Здійснення мрій" , "Успішних рішень", "Наступну днюху", "  у мирі", "Хорошої дівчини", "Знайти прекрасну", "Щасливої майбутньої", "  сім'ї", "та найкращого!"],
         charSize: 20,
-        charSpacing: 20,
+        charSpacing: 19,
         lineHeight: 30,
 
         cx: w / 2,
