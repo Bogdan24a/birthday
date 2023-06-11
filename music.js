@@ -1,7 +1,7 @@
 let audioPlaying = true,
     backgroundAudio, browser;
 browser = navigator.userAgent.toLowerCase();
-$('<audio class="audio1" src="audio.mp3" loop></audio>').prependTo('body');
+$('<audio class="audio1" src="birthday.mp3" loop></audio>').prependTo('body');
 if (!browser.indexOf('firefox') > -1) {
     $('<embed id="background-audio" src="audio.mp3" autostart="1"></embed>').prependTo('body');
     backgroundAudio = setInterval(function() {
