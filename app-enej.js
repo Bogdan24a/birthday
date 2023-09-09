@@ -6,7 +6,7 @@ var w = (c.width = window.innerWidth),
     opts = {
         strings: ["З ДНЕМ", "НАРОДЖЕННЯ!", " ", "ЕНЕЙ", "Перлина" , "Бажає", "Благословення", "Мирного життя", "Щасливого майбуття", "Успіхів у справах"],
         charSize: 30,
-        charSpacing: 30,
+        charSpacing: 10,
         lineHeight: 40,
 
         cx: w / 2,
