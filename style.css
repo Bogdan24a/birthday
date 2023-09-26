@@ -9,6 +9,7 @@ canvas {
 	left: 0;
 }
 p {
+	width: 100%;
     text-align: center;
 	margin: 0 0;
 	position: absolute;
