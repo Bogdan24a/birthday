@@ -19,14 +19,12 @@ p {
 	bottom: 3%;
 	text-shadow: 0 0 2px white;
 }
-
 .button {
     padding: 0 12%;
     position: absolute;
     top: 20%;
 	align-content: center;
 }
- 
 a {
     font-size: 11vh;
 	text-decoration: none;
